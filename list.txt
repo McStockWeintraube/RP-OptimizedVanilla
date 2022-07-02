@@ -1,3 +1,4 @@
+sculk
 raw_gold_block
 raw_copper_block
 raw_iron_block
@@ -29,6 +30,9 @@ blue_ice
 packed_ice
 crying_obsidian[warped_wart_block,nether_wart_block,basalt_top]
 moss_block
+packed_mud
+muddy_mangrove_roots
+mud
 brain_coral_block
 dead_brain_coral_block
 fire_coral_block
