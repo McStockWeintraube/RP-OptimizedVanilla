@@ -1,8 +1,4 @@
 Für 1.19 anpassen:
 
-sculk
-mud
-packed mud
-muddy mangrove roots
 
 mangrove leaves
